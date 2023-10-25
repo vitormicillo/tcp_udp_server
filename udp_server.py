@@ -1,3 +1,6 @@
+# Author: Vitor Micillo
+# Author email: vitormicillo@gmail.com
+
 import socket
 
 # Global Variables
