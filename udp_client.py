@@ -1,4 +1,4 @@
-# Author: Vitor Micillo
+# Author: Vitor Micilloi
 # Author email: vitormicillo@gmail.com
 
 import socket
